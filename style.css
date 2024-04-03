@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(250, 251, 253);
+    font-size: 30;
+    font-family: Roboto;
+ }
+
+table,th,td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
